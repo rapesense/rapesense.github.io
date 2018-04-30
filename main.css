@@ -1,0 +1,16 @@
+body{
+	font-family: courier;
+	background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: 100% 100%;
+}
+p{
+color: white;
+font-family: courier;
+text-align: center;
+font-size: 250%;
+font-weight: bold;
+}
+
+	

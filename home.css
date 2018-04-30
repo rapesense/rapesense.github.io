@@ -1,0 +1,42 @@
+body{
+	font-family: courier;
+	background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+p{
+color: white;
+font-family: courier;
+text-align: center;
+font-size: 450%;
+font-weight: bold;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+.secondary {
+	color: white;
+	font-family: courier;
+	text-align: center;
+	font-size: 350%;
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
